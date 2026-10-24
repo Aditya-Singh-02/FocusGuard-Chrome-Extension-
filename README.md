@@ -84,3 +84,15 @@ FOCUSGUARD/
 ├── 🖥️ popup.html      # The Face (Structure of the extension popup)
 ├── ⚙️ popup.js        # The Muscle (Saves settings & updates UI via Chrome Storage)
 └── 🚫 blocked.html    # The Enforcer (Redirect destination when time expires)
+
+---
+
+## 🔮 Roadmap
+
+- [x] **Strict Mode:** Force redirect tabs when time is up.
+- [ ] **History Graphs:** Visualize your focus progress over a week.
+- [ ] **Focus Sounds:** Play ambient white noise while working.
+
+---
+
+### 💻 Made with ❤️ by **Team NOVUS** (Aditya Singh & Mayank Gupta)
