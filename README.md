@@ -7,7 +7,7 @@ Reclaim Your Attention, One Quote at a Time.
 
 Pause-Distraction isn't just a site blocker; it's a gentle nudge back to reality. Designed for students, developers, and anyone fighting the scroll-hole, this Chrome Extension silently tracks your time on distracting sites and intervenes with wisdom when you've had enough.
 
-✨ Why Pause-Distraction?
+✨ Why FOCUS GUARD?
 
 We all do it. You open Twitter for "5 minutes" and suddenly it's an hour later. Pause-Distraction solves this by enforcing the limits you set.
 
